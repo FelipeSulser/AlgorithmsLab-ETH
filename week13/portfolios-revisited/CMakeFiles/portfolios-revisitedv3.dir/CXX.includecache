@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/Desktop/ExamPrep/week13/portfolios-revisited/portfolios-revisitedv3.cpp
+iostream
+-
+cassert
+-
+CGAL/basic.h
+-
+CGAL/QP_models.h
+-
+CGAL/QP_functions.h
+-
+CGAL/Gmpzf.h
+-
+

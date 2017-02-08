@@ -1,0 +1,6 @@
+/home/algolab/Desktop/ExamPrep/week8/graypes/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/ExamPrep/week8/graypes/CMakeFiles/rebuild_cache.dir
+/home/algolab/Desktop/ExamPrep/week8/graypes/CMakeFiles/graypes.dir
+/home/algolab/Desktop/ExamPrep/week8/graypes/CMakeFiles/graypesv2.dir
+/home/algolab/Desktop/ExamPrep/week8/graypes/CMakeFiles/graypesv3.dir
+/home/algolab/Desktop/ExamPrep/week8/graypes/CMakeFiles/graypesv6.dir

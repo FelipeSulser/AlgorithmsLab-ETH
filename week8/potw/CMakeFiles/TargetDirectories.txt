@@ -1,0 +1,4 @@
+/home/algolab/Desktop/ExamPrep/week8/potw/CMakeFiles/stampv5.dir
+/home/algolab/Desktop/ExamPrep/week8/potw/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/ExamPrep/week8/potw/CMakeFiles/rebuild_cache.dir
+/home/algolab/Desktop/ExamPrep/week8/potw/CMakeFiles/stamp.dir

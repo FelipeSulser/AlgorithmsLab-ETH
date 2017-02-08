@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/Desktop/ExamPrep/week11/clues/clues.cpp
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Triangulation_data_structure_2.h
+-
+CGAL/Triangulation_vertex_base_with_info_2.h
+-
+CGAL/Delaunay_triangulation_2.h
+-
+iostream
+-
+vector
+-
+map
+-
+queue
+-
+stack
+-
+

@@ -1,0 +1,3 @@
+/home/algolab/Desktop/ExamPrep/week11/clues/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/ExamPrep/week11/clues/CMakeFiles/rebuild_cache.dir
+/home/algolab/Desktop/ExamPrep/week11/clues/CMakeFiles/clues.dir

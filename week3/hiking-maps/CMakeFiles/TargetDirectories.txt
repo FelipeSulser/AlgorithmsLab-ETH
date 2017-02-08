@@ -1,0 +1,5 @@
+/home/algolab/Desktop/ExamPrep/week3/hiking-maps/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/ExamPrep/week3/hiking-maps/CMakeFiles/hiking_mapsv3.dir
+/home/algolab/Desktop/ExamPrep/week3/hiking-maps/CMakeFiles/hiking_mapsv9.dir
+/home/algolab/Desktop/ExamPrep/week3/hiking-maps/CMakeFiles/hiking_maps.dir
+/home/algolab/Desktop/ExamPrep/week3/hiking-maps/CMakeFiles/rebuild_cache.dir

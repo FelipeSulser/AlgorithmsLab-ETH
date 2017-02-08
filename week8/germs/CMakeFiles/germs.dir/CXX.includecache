@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/Desktop/ExamPrep/week8/germs/germs.cpp
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Exact_predicates_exact_constructions_kernel_with_sqrt.h
+-
+CGAL/Delaunay_triangulation_2.h
+-
+CGAL/Triangulation_data_structure_2.h
+-
+CGAL/Triangulation_vertex_base_with_info_2.h
+-
+iostream
+-
+vector
+-
+climits
+-
+algorithm
+-
+map
+-
+

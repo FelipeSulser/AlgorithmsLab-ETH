@@ -1,0 +1,4 @@
+/home/algolab/Desktop/ExamPrep/week7/inball/CMakeFiles/inballv5.dir
+/home/algolab/Desktop/ExamPrep/week7/inball/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/ExamPrep/week7/inball/CMakeFiles/rebuild_cache.dir
+/home/algolab/Desktop/ExamPrep/week7/inball/CMakeFiles/inball.dir

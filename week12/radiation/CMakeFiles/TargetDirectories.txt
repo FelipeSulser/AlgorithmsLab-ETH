@@ -1,0 +1,4 @@
+/home/algolab/Desktop/ExamPrep/week12/radiation/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/ExamPrep/week12/radiation/CMakeFiles/rebuild_cache.dir
+/home/algolab/Desktop/ExamPrep/week12/radiation/CMakeFiles/radiationv2.dir
+/home/algolab/Desktop/ExamPrep/week12/radiation/CMakeFiles/radiation.dir

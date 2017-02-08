@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/Desktop/ExamPrep/week8/potw/stampv5.cpp
+CGAL/Exact_predicates_exact_constructions_kernel.h
+-
+iostream
+-
+stdexcept
+-
+cassert
+-
+CGAL/basic.h
+-
+CGAL/QP_models.h
+-
+CGAL/QP_functions.h
+-
+CGAL/Gmpzf.h
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/Desktop/ExamPrep/week7/inball/inball.cpp
+iostream
+-
+cassert
+-
+CGAL/basic.h
+-
+CGAL/QP_models.h
+-
+CGAL/QP_functions.h
+-
+vector
+-
+CGAL/Gmpzf.h
+-
+

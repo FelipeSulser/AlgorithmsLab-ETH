@@ -1,0 +1,5 @@
+/home/algolab/Desktop/ExamPrep/week7/diet/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/ExamPrep/week7/diet/CMakeFiles/diet.dir
+/home/algolab/Desktop/ExamPrep/week7/diet/CMakeFiles/dietv3.dir
+/home/algolab/Desktop/ExamPrep/week7/diet/CMakeFiles/dietv2.dir
+/home/algolab/Desktop/ExamPrep/week7/diet/CMakeFiles/rebuild_cache.dir

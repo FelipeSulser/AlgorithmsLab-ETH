@@ -1,0 +1,5 @@
+/home/algolab/Desktop/ExamPrep/week4/potw/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/ExamPrep/week4/potw/CMakeFiles/TheeV.dir
+/home/algolab/Desktop/ExamPrep/week4/potw/CMakeFiles/TheeVv2.dir
+/home/algolab/Desktop/ExamPrep/week4/potw/CMakeFiles/theevv6.dir
+/home/algolab/Desktop/ExamPrep/week4/potw/CMakeFiles/rebuild_cache.dir

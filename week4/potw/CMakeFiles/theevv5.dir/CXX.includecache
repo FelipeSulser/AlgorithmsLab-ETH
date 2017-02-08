@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/Desktop/ExamPrep/week4/potw/theevv5.cpp
+CGAL/Exact_predicates_exact_constructions_kernel.h
+-
+CGAL/Min_circle_2.h
+-
+CGAL/Min_circle_2_traits_2.h
+-
+iostream
+-
+vector
+-
+climits
+-
+algorithm
+-
+

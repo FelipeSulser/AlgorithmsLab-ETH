@@ -1,0 +1,2 @@
+/home/algolab/Desktop/ExamPrep/week11/carsharing/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/ExamPrep/week11/carsharing/CMakeFiles/rebuild_cache.dir

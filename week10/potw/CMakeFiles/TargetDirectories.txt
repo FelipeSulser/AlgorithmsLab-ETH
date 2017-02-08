@@ -1,0 +1,4 @@
+/home/algolab/Desktop/ExamPrep/week10/potw/CMakeFiles/sithv4.dir
+/home/algolab/Desktop/ExamPrep/week10/potw/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/ExamPrep/week10/potw/CMakeFiles/rebuild_cache.dir
+/home/algolab/Desktop/ExamPrep/week10/potw/CMakeFiles/sith.dir

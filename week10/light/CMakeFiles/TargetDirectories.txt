@@ -1,0 +1,4 @@
+/home/algolab/Desktop/ExamPrep/week10/light/CMakeFiles/edit_cache.dir
+/home/algolab/Desktop/ExamPrep/week10/light/CMakeFiles/rebuild_cache.dir
+/home/algolab/Desktop/ExamPrep/week10/light/CMakeFiles/lightv3.dir
+/home/algolab/Desktop/ExamPrep/week10/light/CMakeFiles/light.dir
